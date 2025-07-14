@@ -58,6 +58,7 @@ Caso de Teste:
 Acesse o carrinho de compras.
 Clique no botão "Finalizar Compra".
 Insira as informações de pagamento.
+
 Clique no botão "Confirmar Compra".
 Verifique se a compra é confirmada.
 Verifique se uma mensagem de confirmação é exibida.# Saucedemo_Front_End_Testing
