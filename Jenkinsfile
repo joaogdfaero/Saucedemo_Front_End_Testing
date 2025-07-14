@@ -11,7 +11,7 @@ pipeline {
 
         stage('Test') {
             steps {
-               bat 'mvn -Dtest=br.com.cenarios.CN01_LoginTest'
+               bat 'mvn -Dtest=CN01_LoginTest test '
             }
         }
     }
