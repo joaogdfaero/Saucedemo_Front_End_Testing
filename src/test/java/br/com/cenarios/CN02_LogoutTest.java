@@ -11,7 +11,7 @@ import br.com.pages.PageLogin;
 import br.com.pages.PageHome;
 
 
-public class CN02_Logout{
+public class CN02_LogoutTest{
 
     private static ExtentReports extent;
     

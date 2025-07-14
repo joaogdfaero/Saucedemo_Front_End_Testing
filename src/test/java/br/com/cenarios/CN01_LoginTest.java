@@ -9,7 +9,7 @@ import br.com.core.ReportGenerator;
 
 import br.com.pages.PageLogin;
 
-public class CN01_Login{
+public class CN01_LoginTest{
 
     private static ExtentReports extent;
     

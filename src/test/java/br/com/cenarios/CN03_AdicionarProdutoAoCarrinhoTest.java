@@ -11,7 +11,7 @@ import br.com.pages.PageLogin;
 import br.com.pages.PageHome;
 import br.com.pages.PageProduto;
 
-public class CN03_AdicionarProdutoAoCarrinho{
+public class CN03_AdicionarProdutoAoCarrinhoTest{
 
     private static ExtentReports extent;
 

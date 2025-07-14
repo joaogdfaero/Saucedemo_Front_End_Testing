@@ -8,5 +8,11 @@ pipeline {
                 bat 'mvn clean compile'
             }
         }
+
+        stage('Test') {
+            steps {
+               bat 'mvn -Dtest=br.com.cenarios.CN01_Login test'
+            }
+        }
     }
 }

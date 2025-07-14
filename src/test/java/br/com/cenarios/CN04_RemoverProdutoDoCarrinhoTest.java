@@ -12,7 +12,7 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class CN04_RemoverProdutoDoCarrinho {
+public class CN04_RemoverProdutoDoCarrinhoTest {
 
     private static ExtentReports extent;
 
